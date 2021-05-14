@@ -1,0 +1,7 @@
+JetBrains Mono
+Creator: JetBrains
+Licensed under the SIL Open Font License 1.1 (https://github.com/JetBrains/JetBrainsMono/blob/master/OFL.txt)
+
+Roboto
+Creator: Christian Robertson
+Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)

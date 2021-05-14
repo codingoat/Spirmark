@@ -1,0 +1,3 @@
+[submodule "Spirmark/Spirver"]
+	path = Spirmark/Spirver
+	url = https://github.com/codingoat/Spirver
